@@ -6,6 +6,16 @@ A clean, responsive real-time chat application built with modern web technologie
 
 ---
 
+<!-- Demo video inserted before Key Features -->
+## ▶️ Demo
+
+<video controls width="720">
+  <source src="https://raw.githubusercontent.com/TraptiSingh7300/chat-app/main/video/chat-app.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download the video here: [chat-app.mp4](./video/chat-app.mp4)
+</video>
+
+---
+
 ## ✨ Key Features
 
 - 🔄 **Real-Time Messaging** - Instant message delivery using WebSockets
