@@ -11,7 +11,7 @@ A clean, responsive real-time chat application built with modern web technologie
 
 | Join Chat | Group Chat |
 |---:|:---|
-| ![Join Chat](./video/screenshot-join.png) | ![Group Chat](./video/screenshot-group.png) |
+| ![Join Chat](./screenshots/JoinChat.png) | ![Group Chat](./screenshots/Chatroom.png) |
 
 > Click an image to open the full video file if you want to see the live demo: [chat-app.mp4](./video/chat-app.mp4)
 
