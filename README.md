@@ -9,7 +9,7 @@ A clean, responsive real-time chat application built with modern web technologie
 <!-- Demo video preview inserted before Key Features -->
 ## ▶️ Demo
 
-[![Watch the demo](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='720' height='405' viewBox='0 0 720 405'><rect width='100%25' height='100%25' fill='%230b1220'/><polygon points='300,160 300,245 385,202.5' fill='%23ffffff'/></svg>)](https://raw.githubusercontent.com/TraptiSingh7300/chat-app/main/video/chat-app.mp4)
+[![Watch the demo](https://raw.githubusercontent.com/TraptiSingh7300/chat-app/main/video/thumbnail.svg)](https://raw.githubusercontent.com/TraptiSingh7300/chat-app/main/video/chat-app.mp4)
 
 ---
 
